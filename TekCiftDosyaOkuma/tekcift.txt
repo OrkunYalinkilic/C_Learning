@@ -1,0 +1,14 @@
+1 = TEK
+2 = CIFT
+3 = TEK
+4 = CIFT
+5 = TEK
+6 = CIFT
+7 = TEK
+8 = CIFT
+9 = TEK
+10 = CIFT
+11 = TEK
+12 = CIFT
+13 = TEK
+14 = CIFT
